@@ -14,8 +14,8 @@ def build(ctx):
 
             ],
             target=[
-                ctx.path_to(ctx, "OUT_ANALYSIS", "plot_name.png"),
-
+                ctx.path_to(ctx, "OUT_FIGURES", "Levy.png"),
+                ctx.path_to(ctx, "OUT_FIGURES", "Rastrigin.png"),
             ],
 
         )
