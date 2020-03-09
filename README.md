@@ -9,5 +9,4 @@ The project works with the waf environment <https://github.com/hmgaudecker/econ-
 The project works as follows
 1. Calculation of Benchmark functions, their gradients and hessians, stored in 'model_code' folder.
 2. Unit tests for Benchmark functions, their gradients and hessians, stored in 'analysis' folder.
-3. Calculations and plots of relative errors for the functions and their derivatives, stored in 'analysis' folder. Plots are saved in   
-   'out' folder.
+3. Calculations and plots of relative errors for the functions and their derivatives, stored in 'analysis' folder. Plots are saved in 'out' folder.
